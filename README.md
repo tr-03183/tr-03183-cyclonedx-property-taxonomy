@@ -28,6 +28,6 @@ These properties are maintained by BSI. Feel free to open an issue in this sourc
 
 ## Licence
 
-Copyright 2024 German Federal Office for Information Security (BSI).
+© Copyright 2024 German Federal Office for Information Security (BSI)
 
-Licenced under [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0).
+Licensed under [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0).
