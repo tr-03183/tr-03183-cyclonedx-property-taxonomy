@@ -1,6 +1,6 @@
 # BSI CycloneDX Property Taxonomy, v0.1.0
 
-This is the official [BSI](https://www.bsi.bund.de/EN/Home/home_node.html) (German Federal Office for Information Security) property taxonomy for CycloneDX.
+This is the [BSI](https://www.bsi.bund.de/EN/Home/home_node.html) (German Federal Office for Information Security) property taxonomy for CycloneDX.
 
 For more information about CycloneDX property taxonomies, see [CycloneDX documentation](https://github.com/CycloneDX/cyclonedx-property-taxonomy).
 
@@ -28,6 +28,6 @@ These properties are maintained by BSI. Feel free to open an issue in this sourc
 
 ## Licence
 
-© Copyright 2024 German Federal Office for Information Security (BSI)
+© Copyright 2024-2025 German Federal Office for Information Security (BSI)
 
 Licensed under [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0).
