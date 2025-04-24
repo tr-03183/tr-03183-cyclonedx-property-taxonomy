@@ -26,7 +26,7 @@ The key words “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL 
 
 ## Contributing
 
-These properties are maintained by BSI. Feel free to open an issue in this source code repository, if you have any questions, contributions or suggestions.
+If you have questions, suggestions or found a flaw, please browse through the extant [issue reports](https://github.com/tr-03183/tr-03183-cyclonedx-property-taxonomy/issues), consider opening a new one or contribute by posing a [pull request](https://github.com/tr-03183/tr-03183-cyclonedx-property-taxonomy/pulls).
 
 ## Licence
 
