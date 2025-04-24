@@ -32,4 +32,4 @@ These properties are maintained by BSI. Feel free to open an issue in this sourc
 
 © Copyright 2024-2025 German Federal Office for Information Security (BSI)
 
-Licensed under [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0).
+Licensed under [Apache License 2.0](https://spdx.org/licenses/Apache-2.0.html).
