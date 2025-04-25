@@ -1,6 +1,6 @@
 # BSI CycloneDX Property Taxonomy, v0.1.0
 
-This is the [BSI](https://www.bsi.bund.de/EN/Home/home_node.html) (German Federal Office for Information Security) property taxonomy for [CycloneDX](https://github.com/CycloneDX).
+This is the [BSI](https://bsi.de/EN) (German Federal Office for Information Security) property taxonomy for CycloneDX.
 
 This taxonomy is based on **BSI TR-03183-2 v2.0.0**, which is available at <https://www.bsi.bund.de/dok/TR-03183-en>.
 
@@ -26,7 +26,7 @@ The key words “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL 
 
 ## Contributing
 
-These properties are maintained by BSI. Feel free to open an issue in this source code repository, if you have any questions, contributions or suggestions.
+If you have questions, suggestions or found a flaw, please browse through the extant [issue reports](https://github.com/tr-03183/tr-03183-cyclonedx-property-taxonomy/issues), consider opening a new one or contribute by posing a [pull request](https://github.com/tr-03183/tr-03183-cyclonedx-property-taxonomy/pulls).
 
 ## Licence
 
