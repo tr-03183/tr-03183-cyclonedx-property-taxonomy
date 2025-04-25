@@ -1,6 +1,6 @@
 # BSI CycloneDX Property Taxonomy, v0.1.0
 
-This is the [BSI](https://bsi.de/EN) (German Federal Office for Information Security) property taxonomy for CycloneDX.
+This is the [BSI](https://bsi.de/EN) (German Federal Office for Information Security) property taxonomy for [CycloneDX](https://cyclonedx.org/).
 
 This taxonomy is based on **BSI TR-03183-2 v2.0.0**, which is available at <https://www.bsi.bund.de/dok/TR-03183-en>.
 
