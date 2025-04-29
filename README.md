@@ -1,4 +1,4 @@
-# BSI CycloneDX Property Taxonomy, v0.1.0
+# BSI CycloneDX Property Taxonomy, v0.1.1
 
 This is the [BSI](https://bsi.de/EN) (German Federal Office for Information Security) property taxonomy for CycloneDX.
 
