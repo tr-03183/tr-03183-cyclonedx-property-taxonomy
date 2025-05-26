@@ -32,4 +32,4 @@ If you have questions, suggestions or found a flaw, please browse through the ex
 
 © Copyright 2024-2025 German Federal Office for Information Security (BSI)
 
-Licensed under [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0).
+Licensed under [Apache License 2.0](https://spdx.org/licenses/Apache-2.0.html).
