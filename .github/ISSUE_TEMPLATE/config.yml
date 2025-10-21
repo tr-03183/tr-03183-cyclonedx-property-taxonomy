@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Redirect issue submission
+    url: https://github.com/tr-03183/tr-03183-cyclonedx-property-taxonomy/issues
+    about: Please submit issue reports at the development repository.
+  - name: Redirect pull request submission
+    url: https://github.com/tr-03183/tr-03183-cyclonedx-property-taxonomy/pulls
+    about: Please pose pull requests at the development repository.
